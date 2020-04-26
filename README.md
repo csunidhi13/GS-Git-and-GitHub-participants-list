@@ -8,4 +8,4 @@
 
 ## Participants
 
-1. 
+1. [Prerna Ahuja](https://github.com/prernaahuja/GS-Git-and-GitHub-participants-list)
